@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectCodeQR</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="prompt_repassword">Verifier mot de passe</string>
+    <string name="action_sign_in">Connexion</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">"Nom d\'utilisateur invalide"</string>
+    <string name="invalid_password">Le mot de passe doit avoir plus de 5 caractères</string>
+    <string name="login_failed">"Connexion impossible"</string>
+</resources>
