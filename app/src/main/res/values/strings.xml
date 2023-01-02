@@ -10,4 +10,7 @@
     <string name="invalid_username">"Nom d\'utilisateur invalide"</string>
     <string name="invalid_password">Le mot de passe doit avoir plus de 5 caractères</string>
     <string name="login_failed">"Connexion impossible"</string>
+    <string name="item_default_name">Nom de l\'article</string>
+    <string name="item_default_model">Modèle</string>
+    <string name="item_default_ref">ID article</string>
 </resources>

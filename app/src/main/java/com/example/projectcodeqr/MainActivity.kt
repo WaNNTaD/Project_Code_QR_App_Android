@@ -11,9 +11,6 @@ class MainActivity : AppCompatActivity() {
 
     // Déclarez les vues de l'interface utilisateur en tant que variables membres
     // afin qu'elles puissent être utilisées dans toutes les méthodes de l'activité
-    //private lateinit var username: EditText
-    //private lateinit var password: EditText
-    //private lateinit var loginbtn: Button
     private lateinit var connectbtn: Button
     private lateinit var registerbtn: Button
 

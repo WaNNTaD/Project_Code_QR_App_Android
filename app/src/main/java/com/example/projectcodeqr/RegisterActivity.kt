@@ -45,7 +45,7 @@ class RegisterActivity : AppCompatActivity() {
                         Toast.makeText(this@RegisterActivity, "La verification de mot de passe a échoué, réessayez", Toast.LENGTH_SHORT).show()
                     } else {
                         Toast.makeText(this@RegisterActivity, "Information enregistrée avec succès", Toast.LENGTH_SHORT).show()
-                        dbHelper.insertData(user,pass,name, mail)
+                        dbHelper.insertData(user,pass,name,mail)
                         val intent = Intent(applicationContext, MainActivity::class.java)
                         startActivity(intent)
 
